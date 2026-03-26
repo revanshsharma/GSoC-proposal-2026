@@ -197,8 +197,5 @@ Contributions, ideas, and feedback are welcome!
 * Rocket.Chat Apps Engine
 * Open-source community
 * AI tooling ecosystem
-
-```
-
-Just say: **“make repo starter”** 🚀
+  
 ```
